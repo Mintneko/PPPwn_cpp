@@ -93,7 +93,7 @@ static void signal_handler(int sig_num) {
 
 int main(int argc, char *argv[]) {
     using namespace clipp;
-    std::cout << "[+] PPPwn++ - PlayStation 4 PPPoE RCE by theflow" << std::endl;
+    std::cout << "[+] PPPwn++ - PlayStation 4 PPPoE RCE by Mintneko" << std::endl;
     std::string interface;
     int fw = 1100;
     int timeout = 0;
